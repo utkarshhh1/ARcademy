@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bio_ch2" size="7.000000 4.139470" />
+    <ImageTarget name="bio_ch1" size="7.000000 4.990099" />
+    <ImageTarget name="chem_2" size="7.000000 5.898734" />
+    <ImageTarget name="ch_2" size="7.000000 3.940535" />
+    <ImageTarget name="chem_1" size="7.000000 4.183908" />
+    <ImageTarget name="ch_1" size="7.000000 3.417969" />
+  </Tracking>
+</QCARConfig>
